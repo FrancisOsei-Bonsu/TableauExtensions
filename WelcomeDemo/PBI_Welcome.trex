@@ -3,8 +3,8 @@
      <dashboard-extension id="com.sample.bnp.extension" extension-version="0.1.0">
        <default-locale>en_US</default-locale>
        <name resource-id="name"/>
-       <description>Extension Description</description>
-       <author name="USERNAME" email="USER@example.com" organization="MyCo" website="https://www.example.com"/>
+       <description>Welcomes PBI Team Member</description>
+       <author name="Francis" email="francis.osei-bonsu@consultant.bnpparibas.com" organization="BNP_Paribas" website="https://www.example.com"/>
        <min-api-version>1.0</min-api-version>
        <source-location>
          <url>http://localhost:8765/HelloDemo/PBI_Welcome.html</url>
